@@ -1,15 +1,15 @@
-﻿# Laboratoriya №1: Veb freymvörklərə giriş və mühitin hazırlanması[cite: 1]
+﻿# Laboratoriya №1: Veb freymvörklərə giriş və mühitin hazırlanması
 
-## İşin qısa izahı və işə salma təlimatı[cite: 1]
-Bu laboratoriya işində Python və Git alətləri yoxlanılmış, virtual mühit (venv) yaradılmış və GitHub repozitoriyası sazlanmışdır[cite: 1].
+## İşin qısa izahı və işə salma təlimatı
+Bu laboratoriya işində Python və Git alətləri yoxlanılmış, layihə üçün təcrid olunmuş virtual mühit (venv) yaradılmış və GitHub repozitoriyası sazlanmışdır.
 
-- Virtual mühit yaratmaq: python -m venv venv[cite: 1]
-- Aktivləşdirmək (Windows): venv\Scripts\activate[cite: 1]
+- Virtual mühit yaratmaq: python -m venv venv
+- Aktivləşdirmək (Windows): venv\Scripts\activate
 
-## Müasir Veb Freymvörklərin Müqayisəli Cədvəli[cite: 1]
+## Müasir Veb Freymvörklərin Müqayisəli Cədvəli
 
 | Freymvörk | Arxitektura | Üstünlükləri | Biznes tətbiq sahələri |
 | :--- | :--- | :--- | :--- |
-| Django[cite: 1] | MVT[cite: 1] | Hazır ORM, admin panel, təhlükəsizlik | Veb portallar, CRM/ERP sistemləri |
-| FastAPI[cite: 1] | ASGI / REST | Yüksək sürət, asinxron, avtomatik sənədləşdirmə | Mikroservislər, yüksək yüklü API-lər |
-| Express.js[cite: 1] | Middleware / MVC | Yüngül, çevik, Node.js ekosistemi | Real-time tətbiqlər, REST API-lər |
+| Django | MVT | Hazır ORM, admin panel, təhlükəsizlik | Veb portallar, CRM/ERP sistemləri |
+| FastAPI | ASGI / REST | Yüksək sürət, asinxron, avtomatik sənədləşdirmə | Mikroservislər, yüksək yüklü API-lər |
+| Express.js | Middleware / MVC | Yüngül, çevik, Node.js ekosistemi | Real-time tətbiqlər, REST API-lər |
